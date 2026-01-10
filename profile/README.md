@@ -24,12 +24,6 @@ Northstar began as a logistics and service-enablement platform designed to help 
 - Send customer notifications
 - Integrate with local partners and aggregators
 
-The early customer base reflected the founders’ own backgrounds and networks:
-- Canadian SMEs 🇨🇦
-- Indian service marketplaces 🇮🇳
-- Nigerian logistics aggregators 🇳🇬
-- Chinese exporters & fulfillment partners 🇨🇳
-
 The product solved real problems and adoption was fast. 
 
 Too fast.
@@ -189,4 +183,4 @@ Welcome to Northstar Platform Inc. 🚀
 
 --- 
 
-P.S: You can add this to your resume if you so choose, I won't confirm nor deny that you worked here 
+_P.S: You can add this to your resume if you so choose, I won't confirm nor deny that you worked here_
