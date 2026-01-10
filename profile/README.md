@@ -1,8 +1,9 @@
 # Northstar Platform Inc.
+
 _Helping Global Small Businesses Scale Without Breaking Their Software_
 ___
 
-🧭 Who We Are
+## 🧭 Who We Are
 
 **Northstar Platform Inc.** is a fictional Canada-based technology company designed for the _PROG3360: Software Delivery & Release Management, Section 2 Winter 2026 Class_ in a real-world, enterprise context.
 
@@ -14,7 +15,7 @@ This repository represents the core platform and delivery systems you will work 
 
 --- 
 
-🌍 The Origin Story
+## 🌍 The Origin Story
 
 Northstar began as a logistics and service-enablement platform designed to help small businesses:
 
@@ -35,7 +36,7 @@ Too fast.
 
 --- 
 
-⚠️ Growth Exposed the Cracks
+## ⚠️ Growth Exposed the Cracks
 
 As usage increased across regions, the platform began to strain under the weight of its own success.
 
@@ -60,7 +61,7 @@ The platform survived but leadership realized something critical:
 
 ---
 
-🚀 Why This Modernization Matters
+## 🚀 Why This Modernization Matters
 
 Northstar’s leadership made a strategic decision to modernize its software delivery and release practices before expanding further.
 
@@ -68,7 +69,7 @@ That’s where you come in.
 
 --- 
 
-👩‍💻👨‍💻 Why You’re Here
+## 👩‍💻👨‍💻 Why You’re Here
 
 Congratulations, you have recieved the offer. You are official hired as Junior Engineer at Northstar Platform Inc.
 
@@ -85,7 +86,7 @@ You are not writing _throwaway labs_. **You are fixing a real company’s delive
 
 --- 
 
-🛠️ What You’ll Work On
+## 🛠️ What You’ll Work On
 
 Over the course of the semester, you will work on:
 
@@ -105,7 +106,7 @@ shipping changes safely, repeatedly, and predictably.
 
 --- 
 
-📂 Repository Structure (Evolving throughout the course)
+## 📂 Repository Structure (Evolving throughout the course)
 
 ```text
 .
@@ -120,7 +121,9 @@ shipping changes safely, repeatedly, and predictably.
 
 Similar to a real production system, this repository and structure will evolve over time. 
 
-🚦 Environments
+--- 
+
+## 🚦 Environments
 
 Northstar operates multiple environments to support safe delivery:
 
@@ -135,7 +138,7 @@ Promotion between environments is intentional, automated, and auditable.
 
 ---
 
-📜 Engineering Principles
+## 📜 Engineering Principles
 
 At Northstar, we believe and live by the following principles:
 
@@ -149,7 +152,7 @@ If something breaks, we fix the system that allowed it to break.
 
 --- 
 
-🎓 How This Course Is Different
+## 🎓 How This Course Is Different
 
 Most courses teach tools in isolation.
 
@@ -167,7 +170,7 @@ By the end, you won’t just understand CI/CD, you’ll understand why companies
 
 --- 
 
-🧠 Final Word
+## 🧠 Final Word and Welcome aboard! 
 
 Northstar Platform Inc. doesn’t need perfect engineers.
 
